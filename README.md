@@ -4,10 +4,6 @@
 </h3>
 </div>
 
-<p align="center">
-    <a href="https://github.com/catppuccin/catppuccin"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/mocha.png" width="600" /></a>
-</p>
-
 ## 💝 About
 
 A smooth pastel theme for [Cmder](https://cmder.app/) based on [Catppuccin](https://github.com/catppuccin/catppuccin) color palette.
