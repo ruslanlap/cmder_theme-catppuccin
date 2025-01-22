@@ -17,6 +17,8 @@ The theme will be automatically applied when you start Cmder.
 Currently available flavors:
 
 - 🌿 Mocha (Dark)
+- ❄️ Nord (Dark)
+- 🧛 Dracula (Dark)
 
 ## ✨ Features
 
@@ -27,7 +29,9 @@ Currently available flavors:
 
 ## 🧩 Color Palette
 
-The theme uses the following Catppuccin Mocha colors:
+The theme uses the following color schemes:
+
+### Catppuccin Mocha
 
 | Color   | Hex       | Usage            |
 | ------- | --------- | ---------------- |
@@ -39,6 +43,32 @@ The theme uses the following Catppuccin Mocha colors:
 | Blue    | `#89B4FA` | Information      |
 | Magenta | `#CBA6F7` | Special elements |
 | Cyan    | `#94E2D5` | Variables        |
+
+### Nord
+
+| Color        | Hex       | Usage            |
+| ------------ | --------- | ---------------- |
+| Polar Night  | `#2E3440` | Background       |
+| Snow Storm   | `#ECEFF4` | Default text     |
+| Green        | `#A3BE8C` | Success messages |
+| Red          | `#BF616A` | Error messages   |
+| Yellow       | `#EBCB8B` | Warnings         |
+| Frost Blue   | `#5E81AC` | Information      |
+| Purple       | `#B48EAD` | Special elements |
+| Cyan         | `#8FBCBB` | Variables        |
+
+### Dracula
+
+| Color      | Hex       | Usage            |
+| ---------- | --------- | ---------------- |
+| Background | `#282A36` | Background       |
+| Foreground | `#F8F8F2` | Default text     |
+| Green      | `#50FA7B` | Success messages |
+| Red        | `#FF5555` | Error messages   |
+| Yellow     | `#F1FA8C` | Warnings         |
+| Purple     | `#BD93F9` | Information      |
+| Pink       | `#FF79C6` | Special elements |
+| Cyan       | `#8BE9FD` | Variables        |
 
 ## 💜 Credits
 
